@@ -159,6 +159,11 @@
 			<artifactId>sprintf-js</artifactId>
 			<version>0.0.0-1.1.0-20160525</version>
 		</dependency>
+		<dependency>
+			<groupId>org.jsweet.candies</groupId>
+			<artifactId>big-integer</artifactId>
+			<version>0.0.0-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<distributionManagement>
